@@ -1,4 +1,4 @@
-# WebSockets + Cache — Learning Project Documentation
+# WebSockets + Cache — Project Documentation
 
 > A hands-on project for learning **WebSockets** and **Redis caching** through building a real-time multi-room chat application.
 
