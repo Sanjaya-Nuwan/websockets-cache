@@ -1,0 +1,21 @@
+{
+  "name": "websockets-cache-learning",
+  "version": "1.0.0",
+  "description": "A hands-on learning project covering WebSockets and Redis caching through a real-time chat app",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js"
+  },
+  "dependencies": {
+    "ioredis": "^5.3.2",
+    "ws": "^8.17.0",
+    "uuid": "^9.0.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": ["websockets", "redis", "cache", "learning", "real-time", "chat"],
+  "author": "Learning Project",
+  "license": "MIT"
+}
